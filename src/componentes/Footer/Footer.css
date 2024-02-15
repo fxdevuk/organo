@@ -1,0 +1,16 @@
+.footer {
+    background-color: #6278f7;
+    display: flex;
+    justify-content: space-around;
+    height: 180px;
+    align-items: center;
+}
+
+.social-items {
+    padding-left: 20px;
+}
+
+.texto-footer {
+    color: #ffff;
+    font-weight: bold;
+}
